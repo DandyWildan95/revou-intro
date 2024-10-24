@@ -8,14 +8,8 @@ ini merupakan simple html website yang saya buat
 
 - **Heading**: nama brand bisnis saya 
 - **Paragraph**: menjelaskan secara singkat mengenai profile bisnis saya
-- **Image**: Konten Gambar toko saya
+- **Image**: Konten gambar toko saya
 
-## Getting Started
 
-To view the website, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DandyWildan95/revou-intro.git
 
 
